@@ -54,7 +54,7 @@ export default function Home({ posts }) {
                               title
                             )}
                           </h2>
-                          <div className="flex flex-wrap">
+                          <div className="post-tags flex flex-wrap">
                             {tags.map((tag) => (
                               <Tag key={tag} text={tag} />
                             ))}
