@@ -5,7 +5,7 @@ const siteMetadata = {
   description: "What's new",
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://codat-blog-whats-new.vercel.app/',
+  siteUrl: 'https://codat-blog-whats-new.vercel.app',
   siteRepo: 'https://github.com/mcclowes/codat-blog-whats-new',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
