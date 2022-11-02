@@ -1,5 +1,5 @@
 ---
-title: 'Banking metrics are now available for all clients using Assess. '
+title: 'Banking metrics are now available for all clients using Assess'
 date: '2022-07-01'
 tags: ['Assess', 'New']
 draft: false
