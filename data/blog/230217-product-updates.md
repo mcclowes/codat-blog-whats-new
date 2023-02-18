@@ -1,5 +1,5 @@
 ---
-title: 'New product updates'
+title: 'See what's new in Codat this week'
 date: '2023-02-17'
 tags: ['Product', 'Update']
 draft: false
